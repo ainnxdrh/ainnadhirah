@@ -1,0 +1,6 @@
+{
+  "name": "Misi Matematik: Serangan Burung 3D",
+  "description": "Permainan 3D interaktif Matematik Tingkatan 1 Bab 3 (Kuasa Dua, Punca Kuasa Dua, Kuasa Tiga & Punca Kuasa Tiga) berasaskan lastik burung dengan 15 aras, portal guru, dan leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
